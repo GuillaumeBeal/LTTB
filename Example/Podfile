@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LTTB_Tests' do
+  pod 'LTTB', :path => '../'
+  
+  
+end
