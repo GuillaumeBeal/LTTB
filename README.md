@@ -1,6 +1,6 @@
 # LTTB (Largest Triangle Three Buckets)
 
-[![CI Status](http://img.shields.io/travis/Guillaume Béal/LTTB.svg?style=flat)](https://travis-ci.org/Guillaume Béal/LTTB)
+[![CI Status](http://img.shields.io/travis/GuillaumeBeal/LTTB.svg?style=flat)](https://travis-ci.org/Guillaume Béal/LTTB)
 [![Version](https://img.shields.io/cocoapods/v/LTTB.svg?style=flat)](http://cocoapods.org/pods/LTTB)
 [![License](https://img.shields.io/cocoapods/l/LTTB.svg?style=flat)](http://cocoapods.org/pods/LTTB)
 [![Platform](https://img.shields.io/cocoapods/p/LTTB.svg?style=flat)](http://cocoapods.org/pods/LTTB)
