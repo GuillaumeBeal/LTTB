@@ -1,13 +1,13 @@
-# LTTB
+# LTTB (Largest Triangle Three Buckets)
 
-[![CI Status](http://img.shields.io/travis/Guillaume Béal/LTTB.svg?style=flat)](https://travis-ci.org/Guillaume Béal/LTTB)
+[![CI Status](http://img.shields.io/travis/Guillaume Béal/LTTB.svg?style=flat)](https://travis-ci.org/Guillaume Béal/LTTB)
 [![Version](https://img.shields.io/cocoapods/v/LTTB.svg?style=flat)](http://cocoapods.org/pods/LTTB)
 [![License](https://img.shields.io/cocoapods/l/LTTB.svg?style=flat)](http://cocoapods.org/pods/LTTB)
 [![Platform](https://img.shields.io/cocoapods/p/LTTB.svg?style=flat)](http://cocoapods.org/pods/LTTB)
 
 ## Largest Triangle Three Buckets 
 
-Largest Triangle Three Buckets downsampling algorithm in Swift.
+Largest Triangle Three Buckets downsampling algorithm in Swift. Downsample timeseries to display millions of points.
 
 
 >The visualization isn’t meant to give you access to the individual values of tens of thousands of data points on a line, it’s meant to show you how that data looks and is trending over time."(http://blackops.io/blog/2014/05/time-series-graphs-and-downsampling/)
@@ -64,7 +64,6 @@ LTTB is available under the MIT license. See the LICENSE file for more info.
 
 ## Author
 
-Guillaume Béal
+Guillaume Béal
 
 Original version by Sveinn Steinarsson(https://github.com/sveinn-steinarsson/highcharts-downsample)
-
