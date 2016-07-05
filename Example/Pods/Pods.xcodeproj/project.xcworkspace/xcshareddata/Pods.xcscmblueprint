@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "439F05B2381281D5B6E6B3F145B308A7A1CBAE9D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EAB3703CFE092AAA0F8A7B4172629A63D859E3DC" : 0,
+    "439F05B2381281D5B6E6B3F145B308A7A1CBAE9D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2B3AEF39-9DCA-4B14-8DFB-427AFB15B3DF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EAB3703CFE092AAA0F8A7B4172629A63D859E3DC" : "",
+    "439F05B2381281D5B6E6B3F145B308A7A1CBAE9D" : "LTTB\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Pods",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/Pods\/Pods.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GuillaumeBeal\/LTTB.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "439F05B2381281D5B6E6B3F145B308A7A1CBAE9D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GuillaumeBeal\/LargestTriangleThreeBucketsSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EAB3703CFE092AAA0F8A7B4172629A63D859E3DC"
+    }
+  ]
+}
