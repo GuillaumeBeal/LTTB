@@ -39,7 +39,6 @@ In case you installed LTTB via CocoaPods you need to import it (add this somewhe
 import LTTB
 ```
 
-## Usage:
 * Dataset: The array (of tuples) to downsample
 * threshold: The number of element to keep
 
