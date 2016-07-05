@@ -1,0 +1,6 @@
+framework module LTTB {
+  umbrella header "LTTB-umbrella.h"
+
+  export *
+  module * { export * }
+}

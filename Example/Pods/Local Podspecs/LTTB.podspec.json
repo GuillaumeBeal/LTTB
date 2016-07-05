@@ -1,0 +1,22 @@
+{
+  "name": "LTTB",
+  "version": "0.1.0",
+  "summary": "A short description of LTTB.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/LTTB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Guillaume Béal": "guillaume.bvl@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/LTTB.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LTTB/Classes/**/*"
+}

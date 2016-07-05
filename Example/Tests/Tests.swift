@@ -21,9 +21,21 @@ class Tests: XCTestCase {
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
-        self.measureBlock() {
-            // Put the code you want to measure the time of here.
-        }
+		
+		var dataSet: [(x: Double,y: Double)] = []
+		
+		for i in 0..<1000000{
+			let x = Double(i)
+			let y = Double(arc4random_uniform(1) * 1000)
+			dataSet.append((x: x,y: y))
+		}
+		
+		self.measureBlock {
+			// Put the code you want to measure the time of here.
+			let result = LTTB().downSample(dataSet, threshold: 1000)
+			
+			
+		}
     }
-    
+	
 }
